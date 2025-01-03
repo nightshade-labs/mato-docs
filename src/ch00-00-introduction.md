@@ -8,7 +8,7 @@ It works by streaming orders continuously over a user-defined time horizon.
 
 ## Summary
 
-Let's say Alice wants to buy 100 million USDC worth of SOL on-chain. An order of this size will be expensive to execute on existing AMMs, which must charge Alice a high price in case she knows something they don't.
+Let's say Alice wants to buy 100 million USDC worth of SOL on-chain. An order of this size will be expensive to execute on existing DEXs, which must charge Alice a high price in case she knows something they don't.
 
 Today, Alice's best option is to manually break her order up into several pieces and execute them over a period of hours, giving the market time to realize she does not have inside information so it can give her a better price.
 
